@@ -23,3 +23,5 @@ Second, my research points to a sustained interest in communication and technica
 Methodological Advances in Instructional Communication Scholarship
 ------
 Last, I'm interested in strategies for implementing instructional interventions in nuanced and sophisticated ways. My work paints a descriptive picture of several approaches that educators or administrates can use to assess to assess and adjust their courses to put students in position for optimal learning. This focus on practical application has led to a reliance on several nuanced research methods (e.g., multilevel modeling) not currently utilized by instructional communication scholars that add statistical precision, accuracy, and scrutiny to existing communication assessment processes. I'm currently working on a three-part study demonstrating the use of MLM for communication assessment and theorizing about classroom communication.
+
+*For a visual representation of this research pipeline – based on the points system described by Matthew Lebo – see https://rpubs.com/tkfr222/868620. Code for the pipeline flexdashboard is available by request. Special thanks to Dr. Andrew Heiss for the inspiration.*
