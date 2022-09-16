@@ -1,7 +1,7 @@
 ---
 title: "Securing the right skills: A longitudinal assessment of college students’ writing and public speaking self-efficacy"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Paper_1
 date: Accepted
 venue: 'Basic Communication Course Annual'
 paperurl: 'TBD'
