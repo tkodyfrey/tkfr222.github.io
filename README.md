@@ -1,3 +1,3 @@
-#T. Kody Frey
+# T. Kody Frey
 
 Thanks for visiting my repository. The site is designed to highlight the research and work of Dr. T. Kody Frey at the University of Kentucky. The purpose is to help establish an academic reputation, and the information contained within the site will not be used for any other purpose. Links to relevant resources and helpful academic materials are provided. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
