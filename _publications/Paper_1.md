@@ -10,4 +10,4 @@ citation: 'Frey, T. K., & Vallade, J. I. (2023). &quot;Securing the right skills
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Frey, T. K., & Vallade, J. I. (2023). &quot;Securing the right skills: A longitudinal assessment of college students’ writing and public speaking self-efficacy&quot; <i>Basic Communication Course Annual</i>. 35.
+Recommended citation: Frey, T. K., & Vallade, J. I. (2023). Securing the right skills: A longitudinal assessment of college students’ writing and public speaking self-efficacy. <i>Basic Communication Course Annual,</i> 35.
