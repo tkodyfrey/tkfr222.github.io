@@ -1,7 +1,7 @@
 ---
 title: "The invaluable nature of speech evaluation training for new basic course instructors"
 collection: publications
-permalink: /publication/Paper_1
+permalink: /publications/Paper_1
 date: 2015
 venue: 'Basic Communication Course Annual'
 paperurl: 'http://tkodyfrey.github.io/files/SET.pdf'
