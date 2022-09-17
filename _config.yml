@@ -84,10 +84,10 @@ author:
   avatar           : "2021Headshot_Small.JPG"
   bio              : "Assistant Professor of Instructional Communication & ICT"
   location         : 
-  employer         : "University of Kentucky"
+  employer         :  # University of Kentucky: "https://www.uky.edu"
   googlescholar    : "https://scholar.google.com/citations?user=pbmOyTIAAAAJ&hl=en"
   email            : "tkfr222@uky.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/T-Frey-2""
   uri              :
   bitbucket        :
   codepen          :
@@ -99,13 +99,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tkfrey/"
   orcid            : "https://orcid.org/0000-0003-1001-8821"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "@TKFrey"
