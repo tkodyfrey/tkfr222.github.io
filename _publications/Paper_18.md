@@ -6,4 +6,4 @@ venue: 'Basic Communication Course Annual'
 citation: 'Frey, T. K., & Vallade, J. I. (Accepted). Securing the right skills: A longitudinal assessment of college students’ writing and public speaking self-efficacy. <i>Basic Communication Course Annual</i>.'
 ---
 
-[Download paper here](http://tkodyfrey.github.io/files/Effectiveness.pdf)
+[Download paper here](http://tkodyfrey.github.io/files/Skills.pdf)
