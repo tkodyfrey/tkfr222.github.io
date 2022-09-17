@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an Assistant Professor of Instructional Communication Research and Information Communication Technology in the School of Information Science at the University of Kentucky. 
-
-My research is grounded on two core beliefs: (1) learning environments are unique, contextualized spaces worthy of scholarly attention, exploration, and theorization and (2) humans naturally seek to adapt their behavior in ways that optimize conditions for creating shared meaning, yet many people lack the fundamental skills necessary to strategically and intentionally do so. The connection of these core beliefs describes a program of research that seeks to advance theoretical understanding of instructional spaces while helping learners and instructors develop communication and technical skills
+Hello! I am an Assistant Professor of Instructional Communication Research and Information Communication Technology in the School of Information Science at the University of Kentucky. I conduct human communication research in three general areas:
 
 Classroom Rules, Policies, and Procedures
 ------
