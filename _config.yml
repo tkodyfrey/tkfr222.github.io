@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Kody Frey"
+  name             : "Dr. T. Kody Frey"
   avatar           : "2021Headshot_Small.JPG"
   bio              : "Assistant Professor of Instructional Communication & ICT"
   location         : 
