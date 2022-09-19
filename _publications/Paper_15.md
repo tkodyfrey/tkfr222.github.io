@@ -1,5 +1,5 @@
 ---
-title: "#15: Nonaccommodation and communication effectiveness: An application to instructional communication"
+title: "Nonaccommodation and communication effectiveness: An application to instructional communication"
 collection: publications
 permalink: /publications/Paper_15/
 venue: "Communication Research Reports"

@@ -1,5 +1,5 @@
 ---
-title: "#9: Using virtual reality for speech rehearsals: An innovative instructor approach to enhance student public speaking efficacy"
+title: "Using virtual reality for speech rehearsals: An innovative instructor approach to enhance student public speaking efficacy"
 collection: publications
 permalink: /publications/Paper_9/
 venue: "Basic Communication Course Annual"

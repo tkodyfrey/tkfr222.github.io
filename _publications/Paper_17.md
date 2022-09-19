@@ -1,5 +1,5 @@
 ---
-title: "#17: Instructor strictness: Instrument development and validation"
+title: "Instructor strictness: Instrument development and validation"
 collection: publications
 permalink: /publications/Paper_17/
 venue: "Communication Education"

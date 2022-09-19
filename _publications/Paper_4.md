@@ -1,5 +1,5 @@
 ---
-title: "#4: Assessing students’ perceptions of writing and public speaking self-efficacy in a composition and communication course"
+title: "Assessing students’ perceptions of writing and public speaking self-efficacy in a composition and communication course"
 collection: publications
 permalink: /publications/Paper_4/
 venue: "Journal of Communication Pedagogy"

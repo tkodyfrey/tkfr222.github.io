@@ -1,5 +1,5 @@
 ---
-title: "#3: The influence of classroom cell phone policies on instructor credibility"
+title: "The influence of classroom cell phone policies on instructor credibility"
 collection: publications
 permalink: /publications/Paper_3/
 venue: "Journal of the Communication, Speech & Theatre Association of North Dakota"

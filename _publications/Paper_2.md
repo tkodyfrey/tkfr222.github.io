@@ -1,5 +1,5 @@
 ---
-title: "#2: Hoverboards and “hovermoms”: Helicopter parents and their influence on millennial students’ rapport with instructors"
+title: "Hoverboards and “hovermoms”: Helicopter parents and their influence on millennial students’ rapport with instructors"
 collection: publications
 permalink: /publications/Paper_2/
 venue: "Communication Education"

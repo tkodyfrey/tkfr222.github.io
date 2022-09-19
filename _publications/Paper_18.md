@@ -1,5 +1,5 @@
 ---
-title: "#18: Securing the right skills: A longitudinal assessment of college students’ writing and public speaking self-efficacy"
+title: "Securing the right skills: A longitudinal assessment of college students’ writing and public speaking self-efficacy"
 collection: publications
 permalink: /publications/Paper_18/
 venue: "Basic Communication Course Annual"

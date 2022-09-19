@@ -1,9 +1,9 @@
 ---
-title: "#6: Assessing evaluation fidelity between students and instructors in the basic communication course: The impact of criterion-based speech evaluation training"
+title: "Assessing evaluation fidelity between students and instructors in the basic communication course: The impact of criterion-based speech evaluation training"
 collection: publications
 permalink: /publications/Paper_6/
 venue: "Basic Communication Course Annual"
-excerpt: 'This study investigates the role of speech evaluation training in a) creating speech evaluation fidelity between instructor scores and student self-evaluation scores and b) facilitating the type and quality of written feedback on speeches by both students and instructors.
+excerpt: 'This study investigates the role of speech evaluation training in a) creating speech evaluation fidelity between instructor scores and student self-evaluation scores and b) facilitating the type and quality of written feedback on speeches by both students and instructors.'
 date: 2018-01-01
 citation: 'Frey, T. K., Simonds, C. J., Hooker, J. F., Meyer, K. R., & Hunt, S. K. (2018). Assessing evaluation fidelity between students and instructors in the basic communication course: The impact of criterion-based speech evaluation training. <i>Basic Communication Course Annual, 30</i>, 2-31. https://ecommons.udayton.edu/bcca/vol30/iss1/4/.'
 ---
