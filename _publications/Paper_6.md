@@ -1,5 +1,5 @@
 ---
-title: "6. Assessing evaluation fidelity between students and instructors in the basic communication course: The impact of criterion-based speech evaluation training"
+title: "#6: Assessing evaluation fidelity between students and instructors in the basic communication course: The impact of criterion-based speech evaluation training"
 collection: publications
 permalink: /publications/Paper_6/
 venue: "Basic Communication Course Annual"

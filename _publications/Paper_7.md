@@ -1,5 +1,5 @@
 ---
-title: "7. Students as consumers: User responses to money-back guarantees in higher education on Reddit"
+title: "#7: Students as consumers: User responses to money-back guarantees in higher education on Reddit"
 collection: publications
 permalink: /publications/Paper_7/
 venue: "The Online Journal of Distance Education and e-Learning"

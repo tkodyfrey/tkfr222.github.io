@@ -1,5 +1,5 @@
 ---
-title: "11. Syllabus sanctions: Controlling language and perceived fairness as antecedents to students’ psychological reactance and intent to comply"
+title: "#11: Syllabus sanctions: Controlling language and perceived fairness as antecedents to students’ psychological reactance and intent to comply"
 collection: publications
 permalink: /publications/Paper_11/
 venue: "Communication Studies"

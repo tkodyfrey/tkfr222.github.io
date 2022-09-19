@@ -1,5 +1,5 @@
 ---
-title: "5. Noncompliance and dissent with cell phone policies: A psychological reactance theoretical perspective"
+title: "#5: Noncompliance and dissent with cell phone policies: A psychological reactance theoretical perspective"
 collection: publications
 permalink: /publications/Paper_5/
 venue: "Communication Education"

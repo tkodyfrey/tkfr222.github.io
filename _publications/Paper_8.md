@@ -1,5 +1,5 @@
 ---
-title: "8. Facilitating students’ motivation in the basic communication course: A Self-Determination Theory perspective"
+title: "#8: Facilitating students’ motivation in the basic communication course: A Self-Determination Theory perspective"
 collection: publications
 permalink: /publications/Paper_8/
 venue: "Basic Communication Course Annual"

@@ -1,5 +1,5 @@
 ---
-title: "13. Overcoming technological barriers to instruction: Situating Gen Z students as reverse mentors"
+title: "#13: Overcoming technological barriers to instruction: Situating Gen Z students as reverse mentors"
 collection: publications
 permalink: /publications/Paper_13/
 venue: "Frontiers in Communication"

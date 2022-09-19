@@ -1,5 +1,5 @@
 ---
-title: "12. Using the basic course to prepare digital natives for new role as reverse mentors"
+title: "#12: Using the basic course to prepare digital natives for new role as reverse mentors"
 collection: publications
 permalink: /publications/Paper_12/
 venue: "Basic Communication Course Annual"

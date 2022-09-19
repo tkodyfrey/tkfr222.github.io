@@ -1,5 +1,5 @@
 ---
-title: "16. Examining motivation in turbulent times: A Self-Determination Theory replication"
+title: "#16: Examining motivation in turbulent times: A Self-Determination Theory replication"
 collection: publications
 permalink: /publications/Paper_16/
 venue: "Basic Communication Course Annual"

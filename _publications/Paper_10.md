@@ -1,5 +1,5 @@
 ---
-title: "10. (In)flexibility during uncertainty? Conceptualizing instructor strictness during a global pandemic"
+title: "#10: (In)flexibility during uncertainty? Conceptualizing instructor strictness during a global pandemic"
 collection: publications
 permalink: /publications/Paper_10/
 venue: "Communication Education"
