@@ -1,5 +1,5 @@
 ---
-title: "1. The invaluable nature of speech evaluation training for new basic course instructors"
+title: "* The invaluable nature of speech evaluation training for new basic course instructors"
 collection: publications
 permalink: /publications/Paper_1/
 venue: "Basic Communication Course Annual"
