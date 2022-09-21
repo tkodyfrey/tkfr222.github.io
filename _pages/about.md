@@ -8,18 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an Assistant Professor of Instructional Communication Research and Information Communication Technology in the School of Information Science at the University of Kentucky. I conduct human communication research in three general areas:
-
-Classroom Rules, Policies, and Procedures
+About Kody
 ------
-First, my research on classroom rules, policies, and procedures analyzes learners’ perceptions of autonomy-restrictive behavior to help instructors understand why many of their attempts at persuasion, influence, and classroom management may fail. I'm interested in the role of the syllabus in setting classroom expectations and influencing students' reactions, as well as how an instructor's strict enforcement of rules and policies can motivate or demotivate students. 
+Welcome! I am an Assistant Professor of Instructional Communication Research and Information Communication Technology in the [School of Information Science at the University of Kentucky](https://ci.uky.edu/sis/). I'm originally from a town called Gastonia, North Carolina (right outside of Charlotte), where I grew up eating Livermush and drinking Sundrop. Outside of scholarship, I watch anime, read science fiction, run long distances, play DnD, cook for my family, and obsess over Liverpool Football Club. 
 
-Communication and Technical Efficacy for Learners and Teachers
+Research
 ------
-Second, my research points to a sustained interest in communication and technical efficacy. Specifically, I am interested in using theory to improve pedagogy in practical ways. For example, we are currently investigating students' expectations for Zoom instruction, how to enhance translational efficacy in biomedical engineering education and practice, measuring public speaking self-efficacy, and ways to improve students' classroom motivation.
+My research interests are in instructional and applied communication, where I study (1) how teachers enforce their classroom rules, policies and procedures, (2) how to develop communication and technical skills for both learners and teachers, and (3) research methods relevant to classroom, educational, and assessment data. The majority of my research uses surveys or experiments to answer research questions related to these interests. I have training in qualitative methods and use these techniques where appropriate, but quantitative research has always felt like home. I also love performing reviews and feel like this is one of my strengths as a scholar - feel free to reach out if you need someone in a pinch! See my research page for more information about my recent publications or opportunities for collaboration. 
 
-Methodological Advances in Instructional Communication Scholarship
+Teaching
 ------
-Last, I'm interested in teaching others how to use quantitative techniques that answer nuanced research questions and enhance statistical precision. I believe this focus on 0 accessible dissemination of statistical techniques throughout instructional communication literature will embolden scholars to move the discipline forward in exciting ways. Practically speaking, this work also paints a descriptive picture of several approaches that educators or administrators can use to assess to assess and adjust  courses to put students in position for optimal learning and advocate for programs at an administrative level. 
+I ground my teaching in a simple phrase: "Humans First, Students Second". I do not believe that a classroom is an isolated context. The way people often characterize the differences between instructional spaces and the real world is misleading; the classroom is the real world. The lessons, ideas, and opinions shared during instruction are not confined to these spaces but are reflections of a larger society that shapes one’s lived experiences. This leads to five core philosophies that define my teaching: (1) practicing extensive reflection; (2) tailoring pedagogy to the audience; (3) reducing uncertainty; (4) critically analyzing classroom technologies; and (5) continually practicing assessment. See my teaching page for more about the classes I've taught, 
 
-*For a visual representation of this research pipeline – based on the points system described by [Matthew Lebo](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/managing-your-research-pipeline/E75F5F84AAD505EE6E66155EB8E9A81F) – see [https://rpubs.com/tkfr222/868620](https://rpubs.com/tkfr222/868620). Code for the pipeline flexdashboard is available by request. Special thanks to Dr. Andrew Heiss for the inspiration.*
+*For a visual representation of my research pipeline – based on the points system described by [Matthew Lebo](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/managing-your-research-pipeline/E75F5F84AAD505EE6E66155EB8E9A81F) – see [https://rpubs.com/tkfr222/868620](https://rpubs.com/tkfr222/868620). Code for the pipeline flexdashboard is available by request. Special thanks to Dr. Andrew Heiss for the inspiration.*
