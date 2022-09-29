@@ -1,7 +1,7 @@
 ---
 title: "The science of (dis)satisfaction: Satisfaction as a product of negative group experiences"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/Talk_1
 venue: "National Communication Association"
 date: 2014-11-16
