@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/Talk_6
 venue: "Central States Communication Association"
-date: 2016_04-03
+date: 2016-04-03
 location: "Grand Rapids, MI"
 ---
 
