@@ -8,4 +8,4 @@ date: 2016-04-03
 location: "Grand Rapids, MI"
 ---
 
-Activity presented during the Great Ideas For Teaching session (GIFTS). You can downloaded a description of the activity [here](files/Is it Really JUST Twitter.pdf)
+Activity presented during the Great Ideas For Teaching session (GIFTS). You can downloaded a description of the activity [here](/files/Is it Really JUST Twitter.pdf)
