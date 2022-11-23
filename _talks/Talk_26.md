@@ -8,3 +8,4 @@ date: 2018-11-16
 location: "Salt Lake City, UT"
 ---
 
+Roundtable panel discussing new instructional communication additions to the Communication Research Measures Handbook. 
