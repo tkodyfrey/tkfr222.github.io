@@ -8,3 +8,4 @@ date: 2017-03-20
 location: "Minneapolis, MN"
 ---
 
+Activity presented during the Great Ideas For Teaching session (GIFTS). You can downloaded a description of the activity [here](/files/More than a Clicker_FINAL.pdf)

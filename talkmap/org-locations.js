@@ -65,7 +65,7 @@ var addressPoints = [
     -93.258133
   ],
    [
-    "Greeneville, SC | Southern States Communication Association",
+    "Greenville, SC | Southern States Communication Association",
     34.852619,
     -82.394012
   ],
