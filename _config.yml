@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en-US"
 title                    : "Dr. T. Kody Frey"
 title_separator          : "-"
@@ -73,9 +74,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-272CJWESP3
+    tracking_id          : "G-272CJWESP3"
+    anonymize_ip         : false
 
 
 # Site Author
