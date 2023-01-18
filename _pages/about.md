@@ -6,10 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  output: 
-  html_document:
-    includes:
-       in_header: Analytics.html
 ---
 
 ## Welcome!
