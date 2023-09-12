@@ -118,5 +118,15 @@ var addressPoints = [
     "New Orleans, LA | National Communication Association",
     29.951065,
     -90.071533
+  ],
+  [
+    "St. Louis, MO | Central States Communication Association",
+    38.627003,
+    -90.199402
+  ],
+  [
+    "National Harbor, MD | National Communication Association",
+    38.790981,
+    -77.004257
   ]
  ];
