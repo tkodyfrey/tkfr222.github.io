@@ -5,7 +5,7 @@ permalink: /publications/Paper_18/
 venue: "Basic Communication Course Annual"
 excerpt: 'This research investigated the developmental patterns of students’ writing and public-speaking self-efficacy throughout their experience in the basic communication course (BCC).'
 date: 2023-01-01
-citation: 'Frey, T. K., & Vallade, J. I. (Accepted). Securing the right skills: A longitudinal assessment of college students’ writing and public speaking self-efficacy. <i>Basic Communication Course Annual</i>.'
+citation: 'Frey, T. K., & Vallade, J. I.(2023). Securing the right skills: A longitudinal assessment of college students’ writing and public speaking self-efficacy. _Basic Communication Course Annual_, _35_, 31-66. https://ecommons.udayton.edu/bcca/vol35/iss1/6/'
 ---
 
 [Download PDF here](http://tkodyfrey.github.io/files/Skills.pdf)
